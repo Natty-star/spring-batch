@@ -7,7 +7,7 @@ Spring batch improt csv file save to database
 
 # To Test
 - Post to http://localhost:8080/api/student
-- userName - admin
+- userName - user
 - password - admin
 
 
